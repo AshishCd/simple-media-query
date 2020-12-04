@@ -4,8 +4,9 @@
 3. md >=768px and <=991px
 4. lg >=992px <= 1199px
 5. xl >= 1200px and <=1399px 
-//bootstrap 5 
 6. xxl  >=1400 and above
+
+xxl only works in bootstrap 5
 
 # Media Queries
 @media(max-width : 767px){
