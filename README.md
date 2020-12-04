@@ -1,11 +1,11 @@
 # Bootstrap classes
-xs <=575px
-sm >= 576px and <=767px
-md >=768px and <=991px
-lg >=992px <= 1199px
-xl >= 1200px and <=1399px 
+1. xs <=575px
+2. sm >= 576px and <=767px
+3. md >=768px and <=991px
+4. lg >=992px <= 1199px
+5. xl >= 1200px and <=1399px 
 //bootstrap 5 
-xxl  >=1400 and above
+6. xxl  >=1400 and above
 
 # Media Queries
 @media(max-width : 767px){
